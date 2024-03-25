@@ -55,7 +55,7 @@ Icon themes are inevitably a work in progress. Please open an issue if you notic
 
 ### License
 
-This project is licensed under the GPL v3.
+This project is licensed under the GNU GPL v3.
 
 ### Acknowledgements
 As noted in the intro, this theme is based on [Beautyline](https://store.kde.org/p/1425426) icons by [sajjad606](https://store.kde.org/u/sajjad606) and [Candy](https://github.com/EliverLara/candy-icons) icons by [EliverLara](https://github.com/EliverLara), and incorporates EliverLara's [Sweet folders](https://github.com/EliverLara/Sweet-folders) as well.
