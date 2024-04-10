@@ -10,7 +10,7 @@ Features:
 - Sci-fi inspired gaps
 - Color-coordinated: files match their app and directory (where possible)
 
-![Preview image for the Sours icon theme](preview/image-2.png)
+![Preview image for the Sours icon theme](preview/image-3.png)
 
 ## Installation
 
