@@ -9,7 +9,7 @@ Features:
 - Sci-fi inspired gaps
 - Color-coordinated: files match their app and directory (where possible)
 
-![Preview image for the Sours icon theme](preview/image-38.png)
+![Preview image for the Sours icon theme](preview/image-31.png)
 
 ## Installation
 - Extract Sours.tar.gz to ~/.local/share/icons
@@ -39,14 +39,24 @@ then
 
 - These steps will need to be repeated after system updates and reversed after switching icon themes
 
-Explanation: In Plasma 6, system icon themes (like Sours) now provide all icons, including those in the system tray, which traditionally have been provided by the Plasma theme. It is now much tougher to set icons to be monochrome only in the system tray - if an arrow-left-symbolic.svg is provided at a particular size, Plasma will use it everywhere that icon appears at that size, for example, both in the system tray and in toolbars (System Settings, Discover, etc). The Plasma 6 icon themes with monochrome tray icons that I have reviewed also have monochrome toolbar icons, sidestepping the issue. Sours now provides a set of tray-arrow-[direction] icons as a way to sidestep the issue while also keeping full-color toolbar and button icons. Follow the instructions above to use the monochrome tray-arrow icons as the system tray expander arrow.
+Explanation: In Plasma 6, system icon themes (like Sours) now provide all icons, including those in the system tray, which traditionally have been provided by the Plasma theme. It is now much tougher to set icons to be monochrome only in the system tray - if an arrow-left-symbolic.svg is provided at a particular size, Plasma will use it everywhere that icon appears at that size, for example, both in the system tray and in toolbars (System Settings, Discover, etc). The Plasma 6 icon themes with monochrome tray icons that I have reviewed also have monochrome toolbar icons, sidestepping the issue. Sours now provides a set of tray-arrow-[direction] icons as a way to overcome this while also keeping full-color toolbar and button icons. Follow the instructions above to use the monochrome tray-arrow icons as the system tray expander arrow.
+
+### The Display Configuration icon in System Settings is white
+Most Qt apps, like System Settings or Audacious, will read configurations from their rc file, located in ~/.config (e.g. for System Settings, this file is named ~/.config/systemsettingsrc)
+
+To change the icon theme to full color for a specific app, add the following to an app's rc file, and ensure that the file ends with an empty line:
+
+    [Icons]
+    Theme=Sours-Full-Color
 
 ## Customization
 - To use the icon you want for a particular app:
-    - Navigate to ~/.local/share/icons
+    - Navigate to ~/.local/share/icons/Sours/apps/scalable
     - Duplicate the app's current icon for a backup
     - Duplicate the desired icon
     - Rename the copy to the correct name for the app and Overwrite in the dialog that appears
+
+- When an app has the default 'W' Walyand icon, you can give it a more specific one by navigating to the 'More actions for this window' menu -> More Actions -> Configure Special Application Settings... -> Add Property -> Desktop file name -> Force -> put the preferred desktop file name. I used this method to correct the OpenRGB icon (desktop file name OpenRGB) and to give Kvantum Preview the Kvantum Manager icon (desktop file name kvantummanager). The .desktop files are located in either ~/.local/share/applications or /usr/share/applications
 
 - Changing icon colors:
     - Use hex color codes in your preferred text editor
