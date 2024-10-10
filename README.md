@@ -8,6 +8,7 @@ Features:
 - Uplit
 - Sci-fi inspired gaps
 - Color-coordinated: files match their app and directory (where possible)
+- Monochrome system tray icons
 
 ![Preview image for the Sours icon theme](preview/image-38.png)
 
