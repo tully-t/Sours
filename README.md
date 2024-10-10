@@ -1,5 +1,5 @@
 # Sours
-Sours is an SVG icon theme for Linux. It is a recolor of [Beautyline](https://store.kde.org/p/1425426) and [Candy](https://github.com/EliverLara/candy-icons) icons, with [Sweet folders](https://github.com/EliverLara/Sweet-folders) and substantial original artwork added to complete the theme.
+Sours is an SVG icon theme for Linux. It is a descendant of [Beautyline](https://store.kde.org/p/1425426) and [Candy](https://github.com/EliverLara/candy-icons) icons, with [Sweet folders](https://github.com/EliverLara/Sweet-folders) and substantial original artwork added to complete the theme.
 
 Features:
 
