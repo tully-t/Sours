@@ -34,16 +34,6 @@ then
 - Select "Edit Application"
 - On the General tab, click the app's icon and use the icon browser dialog to choose the properly colored icon
 
-### The Display Configuration icon in System Settings is white:
-- Download and install Sours-Full-Color
-- Most Qt apps, like System Settings or Audacious, will read configurations from their rc file, located in ~/.config (e.g. for System Settings, this file is named ~/.config/systemsettingsrc)
-
-To change the icon theme to full color for a specific app, add the following to an app's rc file, and ensure that the file ends with an empty line:
-
-    [Icons]
-    Theme=Sours-Full-Color
-
-
 ## Customization
 - To use the icon you want for a particular app:
     - Navigate to ~/.local/share/icons/Sours/apps/scalable
