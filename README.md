@@ -8,7 +8,7 @@ Features:
 - Uplit
 - Sci-fi inspired gaps
 - Color-coordinated: files match their app and directory (where possible)
-- Monochrome system tray icons
+- Monochrome system tray icons (full color option available)
 
 ![Preview image for the Sours icon theme](preview/image-38.png)
 
@@ -41,14 +41,6 @@ then
 - These steps will need to be repeated after system updates and reversed after switching icon themes
 
 Explanation: In Plasma 6, system icon themes (like Sours) now provide all icons, including those in the system tray, which traditionally have been provided by the Plasma theme. It is now much tougher to set icons to be monochrome only in the system tray - if an arrow-left-symbolic.svg is provided at a particular size, Plasma will use it everywhere that icon appears at that size, for example, both in the system tray and in toolbars (System Settings, Discover, etc). The Plasma 6 icon themes with monochrome tray icons that I have reviewed also have monochrome toolbar icons, sidestepping the issue. Sours now provides a set of tray-arrow-[direction] icons as a way to overcome this while also keeping full-color toolbar and button icons. Follow the instructions above to use the monochrome tray-arrow icons as the system tray expander arrow.
-
-### The Display Configuration icon in System Settings is white
-Most Qt apps, like System Settings or Audacious, will read configurations from their rc file, located in ~/.config (e.g. for System Settings, this file is named ~/.config/systemsettingsrc)
-
-To change the icon theme to full color for a specific app, add the following to an app's rc file, and ensure that the file ends with an empty line:
-
-    [Icons]
-    Theme=Sours-Full-Color
 
 ## Customization
 - To use the icon you want for a particular app:
