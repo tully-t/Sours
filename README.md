@@ -29,6 +29,11 @@ then
     - Click the icon next to its name
     - Choose the corresponding icon in the dialog
 
+- If an app has a white icon outside the tray (lookin' at you, KeepassXC):
+    - Right-click the app in your application launcher
+    - Select "Edit Application"
+    - On the General tab, click the app's icon and use the icon browser dialog to choose the properly colored icon
+
 ## Customization
 - To use the icon you want for a particular app:
     - Navigate to ~/.local/share/icons/Sours/apps/scalable
