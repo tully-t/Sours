@@ -24,15 +24,25 @@ then
 - In System Settings -> Appearance -> Icons, select Sours and click Apply (lower right)
 - It may be necessary to log out and log back in or restart to fully apply the icon theme (icon caches are stubbornly persistent)
 
-- For Dolphin to use the provided symbolic icons for named folders (like Downloads or Github) it may be necessary to:
-    - Right-click the folder and open Properties
-    - Click the icon next to its name
-    - Choose the corresponding icon in the dialog
+### For Dolphin to use the provided symbolic icons for named folders (like Downloads or Github) it may be necessary to:
+- Right-click the folder and open Properties
+- Click the icon next to its name
+- Choose the corresponding icon in the dialog
 
-- If an app has a white icon outside the tray (lookin' at you, KeepassXC):
-    - Right-click the app in your application launcher
-    - Select "Edit Application"
-    - On the General tab, click the app's icon and use the icon browser dialog to choose the properly colored icon
+### If an app has a white icon outside the Plasma tray (like KeepassXC):
+- Right-click the app in your application launcher
+- Select "Edit Application"
+- On the General tab, click the app's icon and use the icon browser dialog to choose the properly colored icon
+
+### The Display Configuration icon in System Settings is white:
+- Download and install Sours-Full-Color
+- Most Qt apps, like System Settings or Audacious, will read configurations from their rc file, located in ~/.config (e.g. for System Settings, this file is named ~/.config/systemsettingsrc)
+
+To change the icon theme to full color for a specific app, add the following to an app's rc file, and ensure that the file ends with an empty line:
+
+    [Icons]
+    Theme=Sours-Full-Color
+
 
 ## Customization
 - To use the icon you want for a particular app:
