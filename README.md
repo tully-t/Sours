@@ -10,7 +10,7 @@ Features:
 - Color-coordinated: files match their app and directory (where possible)
 - Monochrome system tray icons (full color option available)
 
-![Preview image for the Sours icon theme](preview/image-38.png)
+![Preview image for the Sours icon theme](preview/image-58.png)
 
 ## Installation
 - Extract Sours.tar.gz to ~/.local/share/icons
@@ -29,23 +29,33 @@ then
 - Click the icon next to its name
 - Choose the corresponding icon in the dialog
 
-### If an app has a white icon outside the Plasma tray (like KeepassXC):
+### If an app has a white icon in your app launcher (like KeepassXC):
 - Right-click the app in your application launcher
 - Select "Edit Application"
 - On the General tab, click the app's icon and use the icon browser dialog to choose the properly colored icon
+
+### If an app has white arrows when they should be green (Kate, Okular, etc.):
+- Download and install Sours-Full-Color
+- Most Qt apps (Kate, Audacious, System Settings, Okular, etc.) will read configurations from their rc file, located in ~/.config (e.g. for Kate, this file is named ~/.config/katerc)
+
+To change the icon theme to full color for a specific app, add the following to an app's rc file, and ensure that the file ends with an empty line:
+
+    [Icons]
+    Theme=Sours-Full-Color
+
+### If the icon in the app's titlebar is incorrect (like a Wayland W or the stock icon):
+- You can give an app a more specific icon in the titlebar by navigating to the 'More actions for this window' menu -> More Actions -> Configure Special Application Settings... -> Add Property -> Desktop file name -> Force -> put the preferred desktop file name. I used this method to correct the OpenRGB icon (desktop file name OpenRGB) and to give Kvantum Preview the Kvantum Manager icon (desktop file name kvantummanager). The .desktop files are located in either ~/.local/share/applications or /usr/share/applications
 
 ## Customization
 - To use the icon you want for a particular app:
     - Navigate to ~/.local/share/icons/Sours/apps/scalable
     - Duplicate the app's current icon for a backup
     - Duplicate the desired icon
-    - Rename the copy to the correct name for the app and Overwrite in the dialog that appears
-
-- When an app has the default 'W' Walyand icon, you can give it a more specific one by navigating to the 'More actions for this window' menu -> More Actions -> Configure Special Application Settings... -> Add Property -> Desktop file name -> Force -> put the preferred desktop file name. I used this method to correct the OpenRGB icon (desktop file name OpenRGB) and to give Kvantum Preview the Kvantum Manager icon (desktop file name kvantummanager). The .desktop files are located in either ~/.local/share/applications or /usr/share/applications
+    - Rename the copy of the desired icon to the correct name for the app and Overwrite in the dialog that appears
 
 - Changing icon colors:
     - Use hex color codes in your preferred text editor
-    - Changing icon colors in Inkscape, though convenient, is not recommended because Inkscape ignores the `fill` attribute and only modifies the `style` attribute. Both Inkscape and the Dolphin .svg preview prefer the `style` attribute, while rendered icons prefer the `fill` attribute. This creates a frustrating situation where icons will appear changed in Inkscape and Dolphin but will actually render unchanged. To solve this problem, delete `fill` attribute lines, as long as a fill is provided by the `style` attribute. After deleting `fill` attributes, editing colors in Inkscape should go smoothly.
+    - Changing icon colors in Inkscape, though convenient, is not recommended without taking precautions, because Inkscape ignores the `fill` attribute and only modifies the `style` attribute. Both Inkscape and the Dolphin .svg preview prefer the `style` attribute, while rendered icons prefer the `fill` attribute. This creates a frustrating situation where icons will appear changed in Inkscape and Dolphin but will actually render unchanged. To solve this problem, delete `fill` attribute lines, as long as a fill is provided by the `style` attribute. After deleting `fill` attributes, editing colors in Inkscape should go smoothly.
     - [ColorHexa](https://www.colorhexa.com/) can help you identify colors and provide conversions between RGB(A) and hex color codes
 
 - Change gradient direction in Inkscape using the gradient tool
