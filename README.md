@@ -4,11 +4,11 @@ Sours is an SVG icon theme for Linux. It is a descendant of [Beautyline](https:/
 Features:
 
 - Tasty gradients
+- Monochrome system tray (up to 38px panel size or 'small' in tray settings)
+- Color-coordinated (files match their app and directory)
+- Sci-fi inspired gaps
 - Rounded lines
 - Uplit
-- Sci-fi inspired gaps
-- Color-coordinated: files match their app and directory (where possible)
-- Monochrome system tray icons (full color option available)
 
 ![Preview image for the Sours icon theme](preview/image-58.png)
 
@@ -23,6 +23,9 @@ then
 
 - In System Settings -> Appearance -> Icons, select Sours and click Apply (lower right)
 - It may be necessary to log out and log back in or restart to fully apply the icon theme (icon caches are stubbornly persistent)
+
+### Sours-Full-Color
+To install the same theme with a colorful system tray, perform the above steps for Sours-Full-Color.tar.gz
 
 ### For Dolphin to use the provided symbolic icons for named folders (like Downloads or Github) it may be necessary to:
 - Right-click the folder and open Properties
@@ -43,7 +46,7 @@ To change the icon theme to full color for a specific app, add the following to 
     [Icons]
     Theme=Sours-Full-Color
 
-### If the icon in the app's titlebar is incorrect (like a Wayland W or the stock icon):
+### If the icon in the app's titlebar is incorrect (like a Wayland W or a stock icon):
 - You can give an app a more specific icon in the titlebar by navigating to the 'More actions for this window' menu -> More Actions -> Configure Special Application Settings... -> Add Property -> Desktop file name -> Force -> put the preferred desktop file name. I used this method to correct the OpenRGB icon (desktop file name OpenRGB) and to give Kvantum Preview the Kvantum Manager icon (desktop file name kvantummanager). The .desktop files are located in either ~/.local/share/applications or /usr/share/applications
 
 ## Customization
