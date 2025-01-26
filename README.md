@@ -69,7 +69,7 @@ To change the icon theme to full color for a specific app, add the following to 
 The conversion of Beautyline and Candy into Sours is still ongoing. Please open an issue if you notice where this process could be accelerated.
 
 ### Contributing
-Icon themes are inevitably a work in progress. Please open an issue if you notice any stock or broken icons. To make an icon request, leave a comment on Pling.
+Icon themes are inevitably a work in progress. Please open an issue if you notice any stock or broken icons, or to make an icon request.
 
 ### License
 
