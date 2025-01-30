@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 192 192"
+   fill="none"
+   version="1.1"
+   id="svg4647"
+   sodipodi:docname="circle-small-2.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4649"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="27.812867"
+     inkscape:cx="51.972347"
+     inkscape:cy="46.165682"
+     inkscape:current-layer="svg4647">
+    <style
+      type="text/css"
+      id="current-color-scheme">.ColorScheme-Text{color:#dddddd;}.ColorScheme-Background{color:#1a1a1a;}.ColorScheme-Highlight{color:#aaaaac30;}.ColorScheme-ViewText{color:#dddddd;}.ColorScheme-ViewBackground{color:#1a1a1a01;}.ColorScheme-ViewHover{color:#aaaaac30;}.ColorScheme-ViewFocus{color:#aaaaac30;}.ColorScheme-ButtonText{color:#bbbbbb;}.ColorScheme-ButtonBackground{color:#aaaaac20;}.ColorScheme-ButtonHover{color:#aaaaac30;}.ColorScheme-ButtonFocus{color:#aaaaac30;}.ColorScheme-NegativeText { color: #8500ff; } </style>
+    <inkscape:grid
+       type="xygrid"
+       id="grid15073" />
+  </sodipodi:namedview>
+  <path
+    class="ColorScheme-Text"
+     d="M 68.26803,135.63829 C 46.37932,120.29899 41.042198,90.09924 56.352595,68.215596 71.66296,46.331958 101.84331,41.022404 123.73198,56.361709 c 21.88871,15.339301 27.22581,45.539051 11.91544,67.422701 -15.31037,21.88363 -45.490712,27.19318 -67.37939,11.85388 z"
+     stroke-miterlimit="10"
+     id="path2"
+     style="stroke:currentColor;stroke-width:17.9336;stroke-dasharray:none" />
+  <path
+     d="M 15.686944,0.36120066 C 11.128901,-1.1892836 6.0423415,2.4223294 4.9257076,7.9329072 -2.473895,37.435805 -1.4621408,69.797813 7.4593895,98.658077 15.128193,123.72115 28.874462,146.00688 46.514258,162.2482 c 22.861878,21.26848 52.366616,32.07283 81.231772,29.33283 21.6273,-1.84048 42.87693,-10.79429 60.50982,-25.99093 5.97109,-4.35767 4.48189,-16.51015 -2.20893,-18.74614 -3.74296,-1.81723 -7.42071,0.8272 -10.4013,3.35683 -23.8534,19.44138 -54.83018,25.46053 -82.617693,16.30507 C 67.172465,158.24541 44.384393,137.1693 31.159604,109.23898 17.532434,80.90911 14.12,45.923283 21.820363,14.549144 23.659898,8.7922713 20.757034,1.7102005 15.686944,0.36120066 Z"
+     fill="none"
+     stroke="none"
+     stroke-width="5.62082"
+     id="path4613"
+     style="fill:none;stroke:none;stroke-width:5.621;stroke-dasharray:none" />
+  <defs
+     id="defs4645">
+    <linearGradient
+       id="paint0_linear"
+       x1="23.7212"
+       y1="125.956"
+       x2="125.564"
+       y2="25.9217"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.98480776,0.17364818,0.17364818,0.98480776,173.85435,-15.21224)">
+      <stop
+         stop-color="#0072FF"
+         id="stop4615" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop4617" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear"
+       x1="23.7212"
+       y1="125.955"
+       x2="125.564"
+       y2="25.9213"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.98480776,0.17364818,0.17364818,0.98480776,173.85435,-15.21224)">
+      <stop
+         stop-color="#0072FF"
+         id="stop4620" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop4622" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear"
+       x1="68.6082"
+       y1="128.753"
+       x2="133.671"
+       y2="75.0066"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0072FF"
+         id="stop4625" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop4627" />
+    </linearGradient>
+    <linearGradient
+       id="paint3_linear"
+       x1="68.6082"
+       y1="128.753"
+       x2="133.671"
+       y2="75.0066"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0072FF"
+         id="stop4630" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop4632" />
+    </linearGradient>
+    <linearGradient
+       id="paint4_linear"
+       x1="72.2581"
+       y1="168.705"
+       x2="170.244"
+       y2="72.001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.98480776,0.17364818,0.17364818,0.98480776,173.85435,-15.21224)">
+      <stop
+         stop-color="#0072FF"
+         id="stop4635" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop4637" />
+    </linearGradient>
+    <linearGradient
+       id="paint5_linear"
+       x1="72.2582"
+       y1="168.704"
+       x2="170.244"
+       y2="72.0007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.98480776,0.17364818,0.17364818,0.98480776,173.85435,-15.21224)">
+      <stop
+         stop-color="#0072FF"
+         id="stop4640" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop4642" />
+    </linearGradient>
+    <linearGradient
+       id="paint0_linear-3"
+       x1="64"
+       y1="128"
+       x2="64"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(31.975766,31.628825)">
+      <stop
+         stop-color="#A93AFF"
+         id="stop4774" />
+      <stop
+         offset="1"
+         stop-color="#FF81FF"
+         id="stop4776" />
+    </linearGradient>
+    <linearGradient
+       id="paint0_linear-6"
+       x1="4.9550781"
+       y1="12.450928"
+       x2="59.855217"
+       y2="50.851662"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.1554996,1.6515956,1.6519759,1.1576834,80.112742,6.1030865)">
+      <stop
+         stop-color="#dddddd"
+         id="stop8"
+         offset="0"
+         style="stop-color:#dddddd;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#dddddd"
+         id="stop10"
+         style="stop-color:#dddddd;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+</svg>

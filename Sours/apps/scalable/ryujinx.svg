@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48pt"
+   height="48pt"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="suyu4 copy.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient8"
+       x1="0"
+       y1="0.5"
+       x2="0.9944444444444447"
+       y2="0.47727272727272707"
+       gradientTransform="matrix(45,0,0,44,1.5,2)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-opacity="1"
+         style="stop-color:#e5f230;stop-opacity:1;"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-opacity="1"
+         style="stop-color:#24d864;stop-opacity:1;"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6"
+       x1="0"
+       y1="0.5"
+       x2="0.9944444444444447"
+       y2="0.47727272727272707"
+       gradientTransform="matrix(45,0,0,44,1.5,2)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-opacity="1"
+         style="stop-color:#b900ff;stop-opacity:1;"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-opacity="1"
+         style="stop-color:#6444ff;stop-opacity:1;"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(40.909091,0,0,40,4.6363637,6)"
+       x1="0.53333336"
+       y1="1"
+       x2="1"
+       y2="0.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(40.909091,0,0,40,2.4545455,2)"
+       x1="0"
+       y1="1"
+       x2="0.46666667"
+       y2="0.5" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="pt"
+     inkscape:zoom="11.402097"
+     inkscape:cx="35.563634"
+     inkscape:cy="34.204235"
+     inkscape:current-layer="svg2" />
+  <linearGradient
+     id="_lgradient_12"
+     x1="0"
+     y1="0.5"
+     x2="0.9944444444444447"
+     y2="0.47727272727272707"
+     gradientTransform="matrix(45,0,0,44,1.5,2)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:rgb(88,0,226)"
+       id="stop1" />
+    <stop
+       offset="100%"
+       stop-opacity="1"
+       style="stop-color:rgb(255,0,230)"
+       id="stop2" />
+  </linearGradient>
+  <path
+     d="m 19,16 v 0 c 0,-1.104 0.784,-2 1.75,-2 v 0 c 0.966,0 1.75,0.896 1.75,2 v 0 27.194 C 22.5,44.743 21.243,46 19.694,46 H 12.725 C 6.53,46 1.5,40.97 1.5,34.775 V 13.225 C 1.5,7.03 6.53,2 12.725,2 h 8.025 v 0 c 0.966,0 1.75,0.896 1.75,2 v 0 c 0,1.104 -0.784,2 -1.75,2 V 6 H 13.419 C 8.772,6 5,9.772 5,14.419 V 33.581 C 5,38.228 8.772,42 13.419,42 H 19 V 16 Z M 9,15 c 0,-1.656 1.344,-3 3,-3 1.656,0 3,1.344 3,3 0,1.656 -1.344,3 -3,3 -1.656,0 -3,-1.344 -3,-3 z m 20,17 v 0 c 0,1.104 -0.784,2 -1.75,2 v 0 C 26.284,34 25.5,33.104 25.5,32 V 32 4.806 C 25.5,3.257 26.757,2 28.306,2 h 6.969 C 41.47,2 46.5,7.03 46.5,13.225 v 21.55 C 46.5,40.97 41.47,46 35.275,46 H 27.25 v 0 C 26.284,46 25.5,45.104 25.5,44 v 0 c 0,-1.104 0.784,-2 1.75,-2 v 0 h 7.331 C 39.228,42 43,38.228 43,33.581 V 14.419 C 43,9.772 39.228,6 34.581,6 H 29 Z m 4,1 c 0,-1.656 1.344,-3 3,-3 1.656,0 3,1.344 3,3 0,1.656 -1.344,3 -3,3 -1.656,0 -3,-1.344 -3,-3 z"
+     fill-rule="evenodd"
+     fill="url(#_lgradient_12)"
+     id="path2"
+     style="display:none;fill:url(#_lgradient_12)" />
+  <path
+     d="m 29.636363,33.272727 v 0 c 0,1.003637 -0.712727,1.818182 -1.590909,1.818182 v 0 c -0.878182,0 -1.590909,-0.814545 -1.590909,-1.818182 v 0 V 8.5509091 C 26.454545,7.1427273 27.597272,6 29.005454,6 h 6.335455 c 5.631818,0 10.204545,4.572727 10.204545,10.204545 v 19.59091 C 45.545454,41.427273 40.972727,46 35.340909,46 h -7.295455 v 0 c -0.878182,0 -1.590909,-0.814545 -1.590909,-1.818182 v 0 c 0,-1.003636 0.712727,-1.818182 1.590909,-1.818182 v 0 H 34.71 c 4.224545,0 7.653636,-3.429091 7.653636,-7.653636 V 17.29 c 0,-4.224545 -3.429091,-7.6536364 -7.653636,-7.6536364 h -5.073637 z m 3.636364,0.909091 c 0,-1.505454 1.221818,-2.727273 2.727273,-2.727273 1.505454,0 2.727272,1.221819 2.727272,2.727273 0,1.505455 -1.221818,2.727273 -2.727272,2.727273 -1.505455,0 -2.727273,-1.221818 -2.727273,-2.727273 z"
+     fill-rule="evenodd"
+     fill="url(#_lgradient_12)"
+     id="path3"
+     style="fill:url(#linearGradient4);stroke-width:1"
+     sodipodi:nodetypes="csssscsssssscsssscssssccsssss" />
+  <path
+     d="m 18.363636,14.727273 v 0 c 0,-1.003637 0.712727,-1.818182 1.590909,-1.818182 v 0 c 0.878182,0 1.590909,0.814545 1.590909,1.818182 v 0 24.721818 C 21.545454,40.857273 20.402727,42 18.994545,42 H 12.65909 C 7.0272728,42 2.4545455,37.427273 2.4545455,31.795455 V 12.204545 C 2.4545455,6.5727273 7.0272728,2 12.65909,2 h 7.295455 v 0 c 0.878182,0 1.590909,0.8145455 1.590909,1.8181818 v 0 c 0,1.0036364 -0.712727,1.8181818 -1.590909,1.8181818 v 0 H 13.29 c -4.2245454,0 -7.6536363,3.429091 -7.6536363,7.6536364 v 17.42 c 0,4.224545 3.4290909,7.653636 7.6536363,7.653636 h 5.073636 z M 9.2727273,13.818182 c 0,-1.505455 1.2218177,-2.727273 2.7272727,-2.727273 1.505454,0 2.727272,1.221818 2.727272,2.727273 0,1.505454 -1.221818,2.727273 -2.727272,2.727273 -1.505455,0 -2.7272727,-1.221819 -2.7272727,-2.727273 z"
+     fill-rule="evenodd"
+     fill="url(#_lgradient_12)"
+     id="path4"
+     style="fill:url(#linearGradient5);stroke-width:1"
+     sodipodi:nodetypes="csssscsssssscsssscssssccsssss" />
+</svg>

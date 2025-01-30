@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="mail-attachment.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="45.608387"
+     inkscape:cx="6.6544778"
+     inkscape:cy="7.8494334"
+     inkscape:current-layer="svg2" />
+  <path
+     d="M9.25 1C7.63918 1 6.33334 2.30583 6.33333 3.91667V10.9577H6.33561C6.35788 11.9072 7.13351 12.6657 8.08333 12.6667C9.04983 12.6667 9.83333 11.8832 9.83333 10.9167V4.5H8.66667V10.9167C8.66667 11.2388 8.4055 11.5 8.08333 11.5C7.76117 11.5 7.5 11.2388 7.5 10.9167V3.91667C7.5 2.95017 8.2835 2.16667 9.25 2.16667C10.2165 2.16667 11 2.95017 11 3.91667V10.9167C11 12.5275 9.69416 13.8333 8.08333 13.8333C6.4725 13.8333 5.16667 12.5275 5.16667 10.9167V3.33333H4V10.9167C4 13.1718 5.82817 15 8.08333 15C10.3385 15 12.1667 13.1718 12.1667 10.9167V3.87565H12.1644C12.142 2.28174 10.8441 1.00109 9.25 1Z"
+     fill="url(#paint0_linear)"
+     id="path1"
+     style="fill:url(#paint0_linear)" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="paint0_linear"
+       x1="6.1276274"
+       y1="15"
+       x2="12.1667"
+       y2="7.3961749"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#8D01A2"
+         id="stop1"
+         offset="0"
+         style="stop-color:#ff69ff;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#FF33DB"
+         id="stop2"
+         style="stop-color:#9033dd;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+</svg>

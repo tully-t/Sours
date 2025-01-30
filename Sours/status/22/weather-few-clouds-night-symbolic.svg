@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-11 0 1781 2048">
+   <style
+      type="text/css"
+      id="current-color-scheme">.ColorScheme-Text{color:#dddddd;}.ColorScheme-Background{color:#1a1a1a;}.ColorScheme-Highlight{color:#aaaaac30;}.ColorScheme-ViewText{color:#dddddd;}.ColorScheme-ViewBackground{color:#1a1a1a01;}.ColorScheme-ViewHover{color:#aaaaac30;}.ColorScheme-ViewFocus{color:#aaaaac30;}.ColorScheme-ButtonText{color:#bbbbbb;}.ColorScheme-ButtonBackground{color:#aaaaac20;}.ColorScheme-ButtonHover{color:#aaaaac30;}.ColorScheme-ButtonFocus{color:#aaaaac30;}.ColorScheme-NegativeText { color: #8500ff; } </style>
+   <path class="ColorScheme-Text" fill="currentColor"
+d="M-1 1374q0 -126 72.5 -223t193.5 -135q51 -174 212 -266v-37q0 -233 147.5 -410.5t373.5 -219.5q57 -10 115 -10h3q33 0 75 5q41 3 78 12l97 30q21 11 17 28l-14 75q-12 51 -12 103q0 56 17.5 114.5t53 115t97 103t141.5 70.5l76 22q18 4 18 19q0 6 -1 8l-19 73
+q-9 39 -23 78q-24 70 -75 146q0 -1 -1 -1q-70 101 -175 168q22 54 22 132q0 158 -110.5 269.5t-265.5 111.5h-731q-155 0 -268.5 -113t-113.5 -268zM210 1374q0 72 49.5 122.5t121.5 50.5h731q69 0 119.5 -51t50.5 -122q0 -69 -50.5 -119.5t-119.5 -50.5h-140q-17 0 -27 -24
+l-9 -68q-11 -92 -79.5 -154t-161.5 -62q-91 0 -157.5 62t-77.5 154l-11 59q0 24 -20 24l-67 9q-66 6 -109 54.5t-43 115.5zM682 691h13q148 0 265.5 83.5t164.5 223.5q124 0 217 77q111 -69 163 -187q-166 -84 -259.5 -240t-93.5 -332v-36q-5 0 -13 -0.5t-13 -0.5
+q-98 0 -189 42t-154 120l-3 -2q-87 108 -98 252z" />
+</svg>

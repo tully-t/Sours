@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 48 48"
+   width="48px"
+   height="48px"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="thunderbird.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="7.6013979"
+     inkscape:cx="10.919044"
+     inkscape:cy="13.813249"
+     inkscape:current-layer="svg4" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#dddddd;}.ColorScheme-Background{color:#1a1a1a;}.ColorScheme-Highlight{color:#aaaaac30;}.ColorScheme-ViewText{color:#dddddd;}.ColorScheme-ViewBackground{color:#1a1a1a01;}.ColorScheme-ViewHover{color:#aaaaac30;}.ColorScheme-ViewFocus{color:#aaaaac30;}.ColorScheme-ButtonText{color:#bbbbbb;}.ColorScheme-ButtonBackground{color:#aaaaac20;}.ColorScheme-ButtonHover{color:#aaaaac30;}.ColorScheme-ButtonFocus{color:#aaaaac30;}.ColorScheme-NegativeText { color: #8500ff; } </style>
+  <linearGradient
+     id="_lgradient_0"
+     x1="0.11363637"
+     y1="1"
+     x2="1"
+     y2="0"
+     gradientTransform="matrix(44,0,0,22,2,20)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-opacity="1"
+       style="stop-color:#b900ff;stop-opacity:1;"
+       id="stop1" />
+    <stop
+       offset="0.99989998"
+       stop-opacity="1"
+       style="stop-color:#6444ff;stop-opacity:1;"
+       id="stop2" />
+  </linearGradient>
+  <path
+     class="ColorScheme-Text"
+     d="m 42,22 v 0 c 0,-1.104 0.896,-2 2,-2 v 0 c 1.104,0 2,0.896 2,2 v 0 15 c 0,2.76 -2.24,5 -5,5 H 7 C 4.24,42 2,39.76 2,37 v -15 0 c 0,-1.104 0.896,-2 2,-2 v 0 c 1.104,0 2,0.896 2,2 v 0 13 c 0,1.656 1.344,3 3,3 h 30 c 1.656,0 3,-1.344 3,-3 z"
+     id="path2"
+     style="fill:currentColor;fill-opacity:1" />
+  <linearGradient
+     id="_lgradient_1"
+     x1="0.11363637"
+     y1="1.4084507"
+     x2="1"
+     y2="0.5477308"
+     gradientTransform="matrix(44,0,0,25.56,2,6)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-opacity="1"
+       style="stop-color:#b900ff;stop-opacity:1;"
+       id="stop3" />
+    <stop
+       offset="1"
+       stop-opacity="1"
+       style="stop-color:#6444ff;stop-opacity:1;"
+       id="stop4" />
+  </linearGradient>
+  <path
+     class="ColorScheme-Text"
+     d="m 4,6 h 40 c 1.104,0 2,0.896 2,2 v 5.04 c 0,1.104 -0.687,2.575 -1.534,3.283 L 27.835,30.232 c -2.116,1.771 -5.554,1.771 -7.67,0 L 3.534,16.323 C 2.687,15.615 2,14.144 2,13.04 V 8 C 2,6.896 2.896,6 4,6 Z m 3,4 h 34 c 0.552,0 1,0.448 1,1 v 0.96 c 0,0.552 -0.339,1.293 -0.756,1.655 l -14.977,12.98 c -1.251,1.085 -3.283,1.085 -4.534,0 L 6.756,13.615 C 6.339,13.253 6,12.512 6,11.96 V 11 c 0,-0.552 0.448,-1 1,-1 z"
+     fill-rule="evenodd"
+     id="path4"
+     style="fill:currentColor;fill-opacity:1" />
+</svg>
