@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="-10 0 2236 2048"
+   id="svg1"
+   sodipodi:docname="weather-cloud-blue.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#00f1fa;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#006cff;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="512"
+       y1="1755"
+       x2="2216"
+       y2="983.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.25195313"
+     inkscape:cx="811.65891"
+     inkscape:cy="1428.8372"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#dddddd;}.ColorScheme-Background{color:#1a1a1a;}.ColorScheme-Highlight{color:#aaaaac30;}.ColorScheme-ViewText{color:#dddddd;}.ColorScheme-ViewBackground{color:#1a1a1a01;}.ColorScheme-ViewHover{color:#aaaaac30;}.ColorScheme-ViewFocus{color:#aaaaac30;}.ColorScheme-ButtonText{color:#bbbbbb;}.ColorScheme-ButtonBackground{color:#aaaaac20;}.ColorScheme-ButtonHover{color:#aaaaac30;}.ColorScheme-ButtonFocus{color:#aaaaac30;}.ColorScheme-NegativeText { color: #8500ff; } </style>
+  <path
+     class="ColorScheme-Text"
+     fill="currentColor"
+     d="M0 1225q0 -184 115 -328t292 -185q50 -219 225 -359.5t401 -140.5q221 0 393.5 137t224.5 351h35q144 0 266 69.5t193 190.5t71 265q0 141 -67.5 261t-185 192.5t-257.5 76.5h-1194q-214 -10 -363 -163t-149 -367zM182 1225q0 139 96.5 241.5t233.5 109.5h1194 q137 -7 234 -109.5t97 -241.5q0 -140 -104 -242.5t-247 -102.5h-173q-18 0 -18 -19l-8 -61q-18 -173 -149 -290t-305 -117q-175 0 -304.5 117t-146.5 290l-8 61q0 19 -21 19h-56q-134 16 -224.5 114t-90.5 231z"
+     id="path1"
+     style="fill:url(#linearGradient2)" />
+</svg>
