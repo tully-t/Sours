@@ -27,11 +27,6 @@ then
 ### Sours-Full-Color
 To install the same theme with a colorful system tray, perform the above steps for Sours-Full-Color.tar.gz
 
-### For Dolphin to use the provided symbolic icons for named folders (like Downloads or Github) it may be necessary to:
-- Right-click the folder and open Properties
-- Click the icon next to its name
-- Choose the corresponding icon in the dialog
-
 ### If an app has a white icon in your app launcher (like KeepassXC):
 - Right-click the app in your application launcher
 - Select "Edit Application"
