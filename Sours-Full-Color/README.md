@@ -47,7 +47,14 @@ To change the icon theme to full color for a specific app, add the following to 
     Theme=Sours-Full-Color
 
 ### If the icon in the app's titlebar is incorrect (like a Wayland W or a stock icon):
-- You can give an app a more specific icon in the titlebar by navigating to the 'More actions for this window' menu -> More Actions -> Configure Special Application Settings... -> Add Property -> Desktop file name -> Force -> put the preferred desktop file name. I used this method to correct the OpenRGB icon (desktop file name OpenRGB) and to give Kvantum Preview the Kvantum Manager icon (desktop file name kvantummanager). The .desktop files are located in either ~/.local/share/applications or /usr/share/applications
+### or
+### If an app uses a different icon after it is launched (like Kvantum Preview or Battle.net):
+- You can tell KDE which desktop file to use for a particular app by creating a Window Rule:
+    - Open the titlebar context menu and navigate to More Actions -> Configure Special Application Settings... -> Add Property -> Desktop file name -> Force -> put the preferred desktop file name
+    - .desktop files are located in either ~/.local/share/applications or /usr/share/applications
+    - If something goes wrong, delete the Window Rule in System Settings -> Window Management -> Window Rules (default naming scheme: Application settings for "app")
+- Explanation: .desktop files are metadata for their corresponding application. Sometimes the metadata that KDE assigns an app when it is installed is different from the metadata that apps send KDE. Using a Window Rule to force KDE to use a particular .desktop file for a particular app means that KDE will use the icon, name, and description specified in that .desktop file to represent the app
+- I use this method to correct the OpenRGB icon (desktop file name OpenRGB), to give Kvantum Preview the Kvantum Manager icon (desktop file name kvantummanager), and to make Battle.net behave (desktop file name net.lutris.battlenet-1 if installed through Lutris). 
 
 ## Customization
 - To use the icon you want for a particular app:
@@ -55,6 +62,12 @@ To change the icon theme to full color for a specific app, add the following to 
     - Duplicate the app's current icon for a backup
     - Duplicate the desired icon
     - Rename the copy of the desired icon to the correct name for the app and Overwrite in the dialog that appears
+    
+- To use the icon you want for a particular action:
+    - Navigate to ~/.local/share/icons/Sours/actions/scalable
+    - Duplicate the action's current icon for a backup
+    - Duplicate the desired icon
+    - Rename the copy of the desired icon to the correct name for the action and Overwrite in the dialog that appears
 
 - Changing icon colors:
     - Use hex color codes in your preferred text editor

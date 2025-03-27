@@ -80,6 +80,14 @@ MinSize=48
 MaxSize=512
 Type=Scalable
 
+# Tray Arrows       Not in Directory list, add at beginning to activate monochrome tray arrow
+[status/arrows]
+Context=Status
+Size=22
+MinSize=16
+MaxSize=512
+Type=Scalable
+
 #22x22 - Plasma theme/System Tray
 [status/22]
 Size=22
