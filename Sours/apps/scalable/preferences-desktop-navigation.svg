@@ -59,11 +59,11 @@
       <stop
          id="stop4"
          offset="0"
-         style="stop-color:#c900ff;stop-opacity:1;" />
+         style="stop-color:#00f1fa;stop-opacity:1;" />
       <stop
          offset="1"
          id="stop5"
-         style="stop-color:#6444ff;stop-opacity:1;" />
+         style="stop-color:#006cff;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="paint1_linear"
@@ -75,11 +75,11 @@
       <stop
          id="stop6"
          offset="0"
-         style="stop-color:#c900ff;stop-opacity:1;" />
+         style="stop-color:#00f1fa;stop-opacity:1;" />
       <stop
          offset="1"
          id="stop7"
-         style="stop-color:#6444ff;stop-opacity:1;" />
+         style="stop-color:#006cff;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="paint2_linear"
@@ -91,11 +91,11 @@
       <stop
          id="stop8"
          offset="0"
-         style="stop-color:#c900ff;stop-opacity:1;" />
+         style="stop-color:#00f1fa;stop-opacity:1;" />
       <stop
          offset="1"
          id="stop9"
-         style="stop-color:#6444ff;stop-opacity:1;" />
+         style="stop-color:#006cff;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="paint3_linear"
@@ -107,11 +107,11 @@
       <stop
          id="stop10"
          offset="0"
-         style="stop-color:#c900ff;stop-opacity:1;" />
+         style="stop-color:#00f1fa;stop-opacity:1;" />
       <stop
          offset="1"
          id="stop11"
-         style="stop-color:#6444ff;stop-opacity:1;" />
+         style="stop-color:#006cff;stop-opacity:1;" />
     </linearGradient>
   </defs>
 </svg>

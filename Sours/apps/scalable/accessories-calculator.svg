@@ -44,11 +44,11 @@
       <stop
          id="stop1"
          offset="0"
-         style="stop-color:#c900ff;stop-opacity:1;" />
+         style="stop-color:#ff69ff;stop-opacity:1;" />
       <stop
          offset="1"
          id="stop2"
-         style="stop-color:#6444ff;stop-opacity:1;" />
+         style="stop-color:#9033dd;stop-opacity:1;" />
     </linearGradient>
   </defs>
 </svg>
