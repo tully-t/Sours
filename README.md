@@ -4,7 +4,7 @@ Sours is an SVG icon theme for Linux. It is a descendant of [Beautyline](https:/
 Features:
 
 - Tasty gradients
-- Monochrome system tray (up to 38px panel size or 'small' in tray settings)
+- Symbolic (monochrome) system tray, up to 38px panel size or 'small' in tray settings
 - Color-coordinated (files match their app and directory)
 - Sci-fi inspired gaps
 - Rounded lines
@@ -24,8 +24,10 @@ then
 - In System Settings -> Appearance -> Icons, select Sours and click Apply (lower right)
 - It may be necessary to log out and log back in or restart to fully apply the icon theme (icon caches are stubbornly persistent)
 
-### Sours-Full-Color
-To install the same theme with a colorful system tray, perform the above steps for Sours-Full-Color.tar.gz
+### Sours-Full-Color or Sours-Mono-Arrow
+To install the same theme with a colorful system tray, perform the above steps for Sours-Full-Color.tar.gz or Sours-Mono-Arrow.tar.gz (the difference between them is the index.theme file)
+
+![Collage of system tray screenshots that demonstrates the different versions](preview/collage-tray.png)
 
 ### For Dolphin to use the provided symbolic icons for named folders (like Downloads or Github) it may be necessary to:
 - Right-click the folder and open Properties
